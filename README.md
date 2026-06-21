@@ -1,3 +1,5 @@
+<div align="center">
+
 # Ingeniería de Software — Transición al Modelo de Proceso SCRUM
 
 ![SCRUM](https://img.shields.io/badge/SCRUM-Agile-FF6B35?style=for-the-badge)
@@ -7,6 +9,10 @@
 > Propuesta propia de transición del modelo de proceso de una empresa de desarrollo de software al marco ágil SCRUM.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto desarrollado por **Alejandro De Mendoza** que propone la migración del modelo de proceso de una empresa de desarrollo de software hacia **SCRUM**: diagnóstico del proceso actual (modelo en cascada o iterativo clásico), identificación de fricciones, definición del modelo SCRUM adaptado al contexto de la organización (roles, ceremonias, artefactos) y estrategia de gestión del cambio para la adopción ágil.
 
@@ -42,3 +48,12 @@ Proyecto desarrollado por **Alejandro De Mendoza** que propone la migración del
 
 **Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
