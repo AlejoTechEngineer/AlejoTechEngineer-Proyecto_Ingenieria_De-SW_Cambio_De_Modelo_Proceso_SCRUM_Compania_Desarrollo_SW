@@ -51,6 +51,22 @@ Proyecto desarrollado por **Alejandro De Mendoza** que propone la migración del
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Empresa de Desarrollo SW] --> B[Diagnostico del Proceso Actual]
+    B --> C[Definicion del Plan de Transicion SCRUM]
+    C --> D[Implementacion de SCRUM]
+    D --> E[Sprint Planning]
+    D --> F[Daily Standup]
+    D --> G[Sprint Review]
+    D --> H[Sprint Retrospective]
+    E & F & G & H --> I[Entrega Continua de Valor]
+    I --> J[gantt_transicion_scrum.png]
+    I --> K[Alcance Del Proyecto.docx]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
