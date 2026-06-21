@@ -36,6 +36,22 @@ Proyecto desarrollado por **Alejandro De Mendoza** que propone la migración del
 - Formación del equipo en cultura ágil
 - KPIs de seguimiento (velocity, lead time, NPS del equipo)
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Empresa de Desarrollo SW] --> B[Diagnostico del Proceso Actual]
+    B --> C[Definicion del Plan de Transicion SCRUM]
+    C --> D[Implementacion de SCRUM]
+    D --> E[Sprint Planning]
+    D --> F[Daily Standup]
+    D --> G[Sprint Review]
+    D --> H[Sprint Retrospective]
+    E & F & G & H --> I[Entrega Continua de Valor]
+    I --> J[gantt_transicion_scrum.png]
+    I --> K[Alcance Del Proyecto.docx]
+```
+
 ## Contenido del repositorio
 
 | Archivo | Descripción |
@@ -50,38 +66,6 @@ Proyecto desarrollado por **Alejandro De Mendoza** que propone la migración del
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
 
 ---
-
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Empresa de Desarrollo SW] --> B[Diagnostico del Proceso Actual]
-    B --> C[Definicion del Plan de Transicion SCRUM]
-    C --> D[Implementacion de SCRUM]
-    D --> E[Sprint Planning]
-    D --> F[Daily Standup]
-    D --> G[Sprint Review]
-    D --> H[Sprint Retrospective]
-    E & F & G & H --> I[Entrega Continua de Valor]
-    I --> J[gantt_transicion_scrum.png]
-    I --> K[Alcance Del Proyecto.docx]
-```
-
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Empresa de Desarrollo SW] --> B[Diagnostico del Proceso Actual]
-    B --> C[Definicion del Plan de Transicion SCRUM]
-    C --> D[Implementacion de SCRUM]
-    D --> E[Sprint Planning]
-    D --> F[Daily Standup]
-    D --> G[Sprint Review]
-    D --> H[Sprint Retrospective]
-    E & F & G & H --> I[Entrega Continua de Valor]
-    I --> J[gantt_transicion_scrum.png]
-    I --> K[Alcance Del Proyecto.docx]
-```
 
 ## Autor
 
